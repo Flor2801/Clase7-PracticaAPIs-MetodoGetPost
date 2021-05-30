@@ -1,0 +1,19 @@
+#modal-editar {
+    width: 400px;
+    height: 200px;
+    border-style: 2px solid black;
+    background-color: rgb(93, 109, 255);
+    color: black;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+.display {
+  display: none;
+}
+
+#modal {
+    margin-top: 50px;
+    margin-left: 50px;
+}
